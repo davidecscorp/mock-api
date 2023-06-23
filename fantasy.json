@@ -1,0 +1,71 @@
+{
+  "books": [
+    {
+      "fantasy": [
+        {
+          "id": 1,
+          "title": "The Lord of the Rings",
+          "author": "J. R. Tolkien"
+        },
+        {
+          "id": 2,
+          "title": "A Wizard of Earthsea",
+          "author": "Ursula K. Le Guin"
+        },
+        {
+          "id": 3,
+          "title": "A Game of Thrones",
+          "author": "George R. R. Martin"
+        },
+        {
+          "id": 4,
+          "title": "Alice in Wonderland",
+          "author": "Charles Lutwidge Dodgson"
+        },
+        {
+          "id": 5,
+          "title": "A Hero Born",
+          "author": "Jin Yong"
+        }
+      ]
+    },
+    {
+      "scifi": [
+        {
+          "id": 1,
+          "title": "Ender's game",
+          "author": "Orson Scott Card"
+        },
+        {
+          "id": 2,
+          "title": "Batman",
+          "author": "Stan Lee"
+        },
+        {
+          "id": 3,
+          "title": "Spider Man",
+          "author": "Stan Lee"
+        }
+      ]
+    },
+    {
+      "drama": [
+        {
+          "id": 1,
+          "title": "Hamlet",
+          "author": "William Shakespeare"
+        },
+        {
+          "id": 2,
+          "title": "Othello",
+          "author": "William Shakespeare"
+        },
+        {
+          "id": 3,
+          "title": "The Importance of Being Earnest",
+          "author": "Oscar Wilde"
+        }
+      ]
+    }
+  ]
+}
