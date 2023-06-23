@@ -4,7 +4,7 @@
 - ☑️ Create a component with Tabs for Fantasy | Scifi | Drama
 - ☑️ In each Tab Panel fetch the respective data from this uri  
  ```bash
-  http://localhost:8000/books
+  https://github.com/davidecscorp/mock-api/blob/master/books.json
 ```
 - ☑️ Create a card component for each book
 - ☑️ Submit 
