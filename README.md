@@ -7,6 +7,7 @@
   https://raw.githubusercontent.com/davidecscorp/mock-api/master/books.json
 ```
 - ☑️ Create a card component for each book
+- ☑️ The component should have a Title and an Author, 
 - ☑️ Submit 
 
 ## 🎈🎈🎈🎈🎊🎊🎊🎊🍾
